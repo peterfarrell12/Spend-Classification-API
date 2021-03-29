@@ -62,7 +62,7 @@ ptyprocess==0.6.0
 py==1.7.0
 pycodestyle==2.5.0
 PyGithub==1.43.8
-Pygments==2.3.1
+Pygments==2.7.4
 PyJWT==1.7.1
 pylint==2.1.1
 pyparsing==2.3.0
